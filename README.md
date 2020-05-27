@@ -28,17 +28,17 @@
     <td>Верстка</td>
   </tr>
   <tr>
-    <td>[Project AndZyWeb]( https://andzyweb.github.io/andzyweb/)</td>
+    <td><a href="https://andzyweb.github.io/mirillis/)">Project AndZyWeb</a></td>
     <td>HTML/CSS</td>
     <td>Верстка</td>
   </tr>  
     <tr>
-    <td>Project Waxom</td>
+    <td><a href="https://andzyweb.github.io/waxom/)">Project Waxom</a></td>
     <td>HTML/CSS</td>
     <td>Вёрстка, JavaScript</td>
   </tr>  
       <tr>
-    <td>Project Tankapp</td>
+    <td><a href="https://andzyweb.github.io/Tankapp/)">Project Tankapp</a></td>
     <td>HTML/SCSS</td>
     <td>Вёрстка</td>
   </tr> 
