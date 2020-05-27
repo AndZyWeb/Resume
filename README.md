@@ -11,6 +11,24 @@
 ## Мои некоммерческие проекты:
 
 
+<style>
+table  {
+ width: 100%;
+ border: 1px solid #ebedef;
+ border-collapse: collapse;
+ text-align: center;
+ margin: 0 auto;
+}
+
+td {
+   border: 1px solid #ebedef;
+   padding: 5px;
+}
+
+tr:not(:first-child):nth-child(odd) {
+  background-color: #ecf0f2;
+}
+</style>
 
 <table>
   <tr>
@@ -45,4 +63,3 @@
     <td>Вёрстка</td>
   </tr> 
   </table>
-
