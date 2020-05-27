@@ -23,7 +23,7 @@
     </th>
   </tr>
   <tr>
-    <td>Project Mirillis</td>
+    <td border="1px solid #dfe2e5">Project Mirillis</td>
     <td>HTML/CSS</td>
     <td>Верстка</td>
   </tr>
