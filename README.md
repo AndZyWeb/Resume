@@ -4,6 +4,7 @@
 * HTML5, CSS3, SCSS/LESS
 * Git, Github, Gitlab, Bitbucket
 * SublimeText
+* Photoshop
 * Avocode
 * Prepros
 * Windows, Linux
