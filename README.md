@@ -10,7 +10,7 @@
 
 ## Мои некоммерческие проекты:
 
-<table width="100%">
+<table width="100%", text-align-center>
   <tr>
     <th>
     Проект
@@ -23,7 +23,7 @@
     </th>
   </tr>
   <tr>
-    <td border="1px solid #dfe2e5">Project Mirillis</td>
+    <td>Project Mirillis</td>
     <td>HTML/CSS</td>
     <td>Верстка</td>
   </tr>
