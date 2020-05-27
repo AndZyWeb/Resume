@@ -1,7 +1,7 @@
 # Зинченко Андрей
 ## Стек технологий (актуальность на 2020 год):
 
-* HTML5, CSS3, SCSS/LESS
+* HTML5, CSS3, SCSS/SASS
 * Git, Github, Gitlab, Bitbucket
 * SublimeText
 * Photoshop
