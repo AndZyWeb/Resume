@@ -23,12 +23,12 @@
     </th>
   </tr>
   <tr>
-    <td>Project Mirillis</td>
+    <td>[Project Mirillis]( https://andzyweb.github.io/mirillis/)</td>
     <td>HTML/CSS</td>
     <td>Верстка</td>
   </tr>
   <tr>
-    <td>Project AndZyWeb</td>
+    <td>[Project AndZyWeb]( https://andzyweb.github.io/andzyweb/)</td>
     <td>HTML/CSS</td>
     <td>Верстка</td>
   </tr>  
