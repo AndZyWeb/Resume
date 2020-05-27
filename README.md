@@ -12,10 +12,10 @@
 
 <table width="100%">
   <tr>
-    <th width="40%">
+    <th width="50%">
     Проект
     </th>
-    <th width="60%">
+    <th width="50%">
     Используемые технологии
     </th>
     <th>
