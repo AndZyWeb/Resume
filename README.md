@@ -23,7 +23,7 @@
     </th>
   </tr>
   <tr>
-    <td>[Project Mirillis](https://andzyweb.github.io/mirillis/)</td>
+    <td><a href="https://andzyweb.github.io/mirillis/)">Project Mirillis</a></td>
     <td>HTML/CSS</td>
     <td>Верстка</td>
   </tr>
