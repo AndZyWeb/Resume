@@ -12,13 +12,13 @@
 
 <table width="100%"; text-align-center>
   <tr>
-    <th>
+    <th width="33.3%">
     Проект
     </th>
-    <th>
+    <th width="33.3%">
     Используемые технологии
     </th>
-    <th>
+    <th width="33.3%">
     Категория
     </th>
   </tr>
