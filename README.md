@@ -10,8 +10,36 @@
 
 ## Мои некоммерческие проекты:
 
-| Таблицы       | Это                | Круто |
-| ------------- |:------------------:| -----:|
-| столбец 3     | выровнен вправо    | $1600 |
-| столбец 2     | выровнен по центру |   $12 |
-| зебра-строки  | прикольные         |    $1 |
+<table width="100%">
+  <tr>
+    <th width="40%">
+    Проект
+    </th>
+    <th width="60%">
+    Используемые технологии
+    </th>
+    <th>
+    Категория
+    </th>
+  </tr>
+  <tr>
+    <td>Project Mirillis</td>
+    <td>HTML/CSS</td>
+    <td>Верстка</td>
+  </tr>
+  <tr>
+    <td>Project AndZyWeb</td>
+    <td>HTML/CSS</td>
+    <td>Верстка</td>
+  </tr>  
+    <tr>
+    <td>Project Waxom</td>
+    <td>HTML/CSS</td>
+    <td>Вёрстка, JavaScript</td>
+  </tr>  
+      <tr>
+    <td>Project Tankapp</td>
+    <td>HTML/SCSS</td>
+    <td>Вёрстка</td>
+  </tr> 
+  </table>
