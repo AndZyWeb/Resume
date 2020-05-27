@@ -23,22 +23,22 @@
     </th>
   </tr>
   <tr>
-    <td><a href="https://andzyweb.github.io/mirillis/)">Project Mirillis</a></td>
+    <td><a href="https://andzyweb.github.io/mirillis/">Project Mirillis</a></td>
     <td>HTML/CSS</td>
     <td>Верстка</td>
   </tr>
   <tr>
-    <td><a href="https://andzyweb.github.io/mirillis/)">Project AndZyWeb</a></td>
+    <td><a href="https://andzyweb.github.io/andzyweb/">Project AndZyWeb</a></td>
     <td>HTML/CSS</td>
     <td>Верстка</td>
   </tr>  
     <tr>
-    <td><a href="https://andzyweb.github.io/waxom/)">Project Waxom</a></td>
+    <td><a href="https://andzyweb.github.io/waxomweb/">Project Waxom</a></td>
     <td>HTML/CSS</td>
     <td>Вёрстка, JavaScript</td>
   </tr>  
       <tr>
-    <td><a href="https://andzyweb.github.io/Tankapp/)">Project Tankapp</a></td>
+    <td><a href="https://andzyweb.github.io/tankapp/">Project Tankapp</a></td>
     <td>HTML/SCSS</td>
     <td>Вёрстка</td>
   </tr> 
