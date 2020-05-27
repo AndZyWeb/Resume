@@ -23,7 +23,7 @@
     </th>
   </tr>
   <tr>
-    <td>[Яндекс](https://yandex.ru "Перейти на Яндекс")</td>
+    <td>[Project Mirillis](https://andzyweb.github.io/mirillis/)</td>
     <td>HTML/CSS</td>
     <td>Верстка</td>
   </tr>
