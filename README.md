@@ -10,7 +10,7 @@
 
 ## Мои некоммерческие проекты:
 
-<table width="100%"; text-align-center>
+<table width="100%">
   <tr>
     <th width="33.3%">
     Проект
