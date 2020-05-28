@@ -2,7 +2,8 @@
 ## Стек технологий (актуальность на 2020 год):
 
 * HTML5, CSS3, SCSS/SASS
-* Git, Github, Gitlab, Bitbucket
+* Javascript
+* Git, Github, Gitlab
 * SublimeText
 * Photoshop
 * Avocode
