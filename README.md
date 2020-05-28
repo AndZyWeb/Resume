@@ -3,7 +3,7 @@
 
 * HTML5, CSS3, SCSS/SASS
 * Javascript
-* Git, Github, Gitlab
+* Git, Github, Git Pages, Gitlub
 * SublimeText
 * Photoshop
 * Avocode
