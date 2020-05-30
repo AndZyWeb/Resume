@@ -1,4 +1,4 @@
-# Зинченко Андрей &bullet; <a href="https://codepen.io/_Andzy_/pens/public">codepen</a>
+# Зинченко Андрей &bullet; <a href="https://codepen.io/_Andzy_/pens/public">codepen</a> &bullet; <a href="https://www.linkedin.com/in/andrezin4enko/">linkedin</a>
 
 <pre><code>«Цель не всегда должна быть достижима, часто она лишь служит тем, к чему можно стремиться», — Брюс Ли.
 </code></pre>
