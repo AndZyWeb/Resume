@@ -1,4 +1,4 @@
-# "Зинченко Андрей *" <a href="https://codepen.io/_Andzy_/pens/public">codepen</a>
+# "Зинченко Андрей * " <a href="https://codepen.io/_Andzy_/pens/public">codepen</a>
 ## Стек технологий (актуальность на 2020 год):
 
 * HTML5, CSS3, SCSS/SASS
