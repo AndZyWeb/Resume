@@ -50,21 +50,21 @@
        <tr>
     <td><a href="https://codepen.io/_Andzy_/pen/MWKwvEO">Custom checkbox#1</a></td>
     <td>HTML/SCSS/JavaScript</td>
-    <td>Вёрстка</td>
+    <td>Вёрстка, JavaScript</td>
   </tr>  
        <tr>
     <td><a href="https://codepen.io/_Andzy_/pen/gOPpePK">Custom checkbox#2</a></td>
     <td>HTML/CSS/JavaScript</td>
-    <td>Вёрстка</td>
-  </tr>     
-       <tr>
+    <td>Вёрстка, JavaScript</td>
+  </tr>   
+       <tr> 
     <td><a href="https://codepen.io/_Andzy_/pen/QWjXZON">Likes counter</a></td>
     <td>HTML/CSS/JavaScript</td>
-    <td>Вёрстка</td>
+    <td>Вёрстка, JavaScript</td>
   </tr> 
        <tr>
     <td><a href="https://codepen.io/_Andzy_/pen/WNreWEz">Comment form</a></td>
     <td>HTML/CSS/JavaScript</td>
-    <td>Вёрстка</td>
+    <td>Вёрстка, JavaScript</td>
   </tr>   
   </table>
