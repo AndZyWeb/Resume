@@ -1,4 +1,4 @@
-# Зинченко Андрей &bullet; <a href="https://codepen.io/_Andzy_/pens/public">codepen</a> &bullet; <a href="https://www.linkedin.com/in/andrezin4enko/">linkedin</a>
+# Зинченко Андрей &bullet; <a href="https://codepen.io/_Andzy_/pens/public" rel="nofollow">![](1.svg)</a> <a href="https://www.linkedin.com/in/andrezin4enko/" rel="nofollow">![](2.svg)</a>
 
 <pre><code>«Цель не всегда должна быть достижима, часто она лишь служит тем, к чему можно стремиться», — Брюс Ли.
 </code></pre>
@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td><a href="https://andzyweb.github.io/andzyweb/">Project AndZyWeb</a></td>
-    <td>HTML/CSS</td>
+    <td>HTML/CSS</td> 
     <td>Верстка</td>
   </tr>  
     <tr>
