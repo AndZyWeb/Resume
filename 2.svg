@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.2" width="63.24mm" height="22.22mm" viewBox="0 0 6324 2222" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
+<svg version="1.2" width="26.72mm" height="13.49mm" viewBox="0 0 2672 1349" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
  <defs class="ClipPathGroup">
   <clipPath id="presentation_clip_path" clipPathUnits="userSpaceOnUse">
-   <rect x="0" y="0" width="6324" height="2222"/>
+   <rect x="0" y="0" width="2672" height="1349"/>
   </clipPath>
   <clipPath id="presentation_clip_path_shrink" clipPathUnits="userSpaceOnUse">
-   <rect x="6" y="2" width="6312" height="2218"/>
+   <rect x="2" y="1" width="2667" height="1347"/>
   </clipPath>
  </defs>
  <defs>
@@ -70,9 +70,9 @@
      <g class="Page">
       <g class="Graphic">
        <g id="id3">
-        <rect class="BoundingBox" stroke="none" fill="none" x="0" y="0" width="6324" height="2222"/>
-        <path fill="rgb(0,0,139)" stroke="none" d="M 3161,2208 L 6045,2208 C 6191,2208 6310,2089 6310,1943 L 6310,278 C 6310,132 6191,13 6045,13 L 278,13 C 132,13 13,132 13,278 L 13,1943 C 13,2089 132,2208 278,2208 L 3161,2208 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Verdana, sans-serif" font-size="1190px" font-weight="400"><tspan class="TextPosition" x="675" y="1467"><tspan fill="rgb(255,255,255)" stroke="none">Linkedin</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="0" y="0" width="2672" height="1349"/>
+        <path fill="rgb(0,0,139)" stroke="none" d="M 1336,1335 L 2393,1335 C 2539,1335 2658,1216 2658,1070 L 2658,278 C 2658,132 2539,13 2393,13 L 278,13 C 132,13 13,132 13,278 L 13,1070 C 13,1216 132,1335 278,1335 L 1336,1335 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Verdana, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="410" y="859"><tspan fill="rgb(255,255,255)" stroke="none">Linkedin</tspan></tspan></tspan></text>
        </g>
       </g>
      </g>
