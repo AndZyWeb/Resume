@@ -68,3 +68,8 @@
     <td>Вёрстка, JavaScript</td>
   </tr>   
   </table>
+  
+  ## Моё развитие
+  
+  <a href="https://github.com/AndZyWeb/personal-development" rel="nofollow">![](my_development.svg)</a>
+  
