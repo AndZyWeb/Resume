@@ -34,12 +34,12 @@
   </tr>
   <tr>
     <td><a href="https://andzyweb.github.io/andzyweb/">Project AndZyWeb</a></td>
-    <td>HTML/CSS</td> 
+    <td>HTML/CSS/JQuery</td> 
     <td>Верстка</td>
   </tr>  
     <tr>
     <td><a href="https://andzyweb.github.io/waxomweb/">Project Waxom</a></td>
-    <td>HTML/CSS</td>
+    <td>HTML/CSS/JQuery</td>
     <td>Вёрстка, JavaScript</td>
   </tr>  
       <tr>
