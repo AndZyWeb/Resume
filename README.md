@@ -7,7 +7,7 @@
 * HTML5, CSS3, SCSS/SASS
 * Javascript
 * Git, Github, Git Pages, Gitlub
-* SublimeText
+* SublimeText, VS Code
 * Photoshop
 * Avocode
 * Prepros
