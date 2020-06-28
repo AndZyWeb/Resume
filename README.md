@@ -67,6 +67,11 @@
     <td>HTML/CSS/JavaScript</td>
     <td>Вёрстка, JavaScript</td>
   </tr>   
+  <tr>
+    <td><a href="https://andzyweb.github.io/Freelancer/">Project Freelancer</a></td>
+    <td>HTML/CSS/Bootstrap</td>
+    <td>Вёрстка</td>
+  </tr>    
   </table>
   
   ## Моё развитие
